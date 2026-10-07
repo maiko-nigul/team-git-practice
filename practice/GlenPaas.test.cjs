@@ -22,3 +22,4 @@ test('returns 0 when nothing is completed', () => {
 test('returns 0 for an empty array', () => {
   assert.equal(countCompleted([]), 0);
 });
+//ha
