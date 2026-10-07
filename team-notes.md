@@ -1,3 +1,4 @@
+Team motto: Tiimitöö on väga vajalik.
 
 Team motto: Random.
 
