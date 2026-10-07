@@ -1,1 +1,1 @@
-Team motto: To be decided.
+Team motto: Small commits, big progress.
