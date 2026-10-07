@@ -9,7 +9,6 @@ function getTotalQuantity(items) {
     while (i < items.length) {
         const item = items[i];
         
-        // Võtame kas 'quantity' või 'qty' väljad
         const qty = item?.quantity ?? item?.qty;
 
         if (typeof qty === 'number' && !Number.isNaN(qty)) {
