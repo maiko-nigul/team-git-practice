@@ -1,1 +1,1 @@
-Team motto: Small commits, big progress.
+Team motto: The shorter, the better.
